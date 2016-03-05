@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./tusculanaedisput00ciceuoft_0585.png"; bbox 0 0 1832 3137; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 368 1684 1424 1837">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 368 1684 1424 1837">
+     <span class='ocr_line' id='line_1_1' title="bbox 535 1684 1258 1735; baseline 0.006 -4"><span class='ocrx_word' id='word_1_1' title='bbox 535 1684 719 1732; x_wconf 81' lang='grc' dir='ltr'>ΡΙ.ΕΑ5Ε</span> <span class='ocrx_word' id='word_1_2' title='bbox 755 1685 839 1733; x_wconf 91' lang='lat' dir='ltr'>DO</span> <span class='ocrx_word' id='word_1_3' title='bbox 875 1686 995 1733; x_wconf 88' lang='grc' dir='ltr'>ΝΟΤ</span> <span class='ocrx_word' id='word_1_4' title='bbox 1031 1688 1258 1735; x_wconf 65' lang='lat' dir='ltr'>Remove</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 368 1785 1424 1837; baseline 0.003 -4"><span class='ocrx_word' id='word_1_5' title='bbox 368 1785 549 1833; x_wconf 72' lang='lat' dir='ltr'>CARDS</span> <span class='ocrx_word' id='word_1_6' title='bbox 583 1787 662 1833; x_wconf 84' lang='lat' dir='ltr'>OR</span> <span class='ocrx_word' id='word_1_7' title='bbox 699 1786 833 1833; x_wconf 77' lang='lat' dir='ltr'>SUPS</span> <span class='ocrx_word' id='word_1_8' title='bbox 871 1788 1029 1834; x_wconf 68' lang='lat' dir='ltr'>FROM</span> <span class='ocrx_word' id='word_1_9' title='bbox 1061 1789 1174 1836; x_wconf 78' lang='grc' dir='ltr'>ΤΗΙδ</span> <span class='ocrx_word' id='word_1_10' title='bbox 1211 1790 1424 1837; x_wconf 78' lang='grc' dir='ltr'>ΡΟΕΚΕΤ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 4 1776 190 2008">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 4 1776 190 2008">
+     <span class='ocr_line' id='line_1_3' title="bbox 5 1776 190 1893; baseline -0.016 -17"><span class='ocrx_word' id='word_1_11' title='bbox 5 1776 190 1893; x_wconf 52' lang='lat' dir='ltr'>›3223AEss</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 9 1872 187 1939; baseline 0 -2"><span class='ocrx_word' id='word_1_12' title='bbox 9 1872 187 1939; x_wconf 40' lang='lat' dir='ltr'>2522ssss</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 4 1933 190 2008; baseline 0.032 -9"><span class='ocrx_word' id='word_1_13' title='bbox 4 1933 190 2008; x_wconf 53' lang='lat'>00500‘</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 406 1978 1382 2027">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 406 1978 1382 2027">
+     <span class='ocr_line' id='line_1_6' title="bbox 406 1978 1382 2027; baseline 0.002 -2"><span class='ocrx_word' id='word_1_14' title='bbox 406 1978 712 2025; x_wconf 66' lang='grc' dir='ltr'>υΝΝΕΙὶδΙΤΥ</span> <span class='ocrx_word' id='word_1_15' title='bbox 746 1979 821 2025; x_wconf 81' lang='grc' dir='ltr'>ΟΡ</span> <span class='ocrx_word' id='word_1_16' title='bbox 855 1979 1135 2027; x_wconf 76' lang='lat' dir='ltr'>TORONTO</span> <span class='ocrx_word' id='word_1_17' title='bbox 1173 1982 1382 2027; x_wconf 72' lang='lat' dir='ltr'>UBRARY</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1832 3137">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1832 3137">
+     <span class='ocr_line' id='line_1_7' title="bbox 0 0 1832 3137; baseline 0 0"><span class='ocrx_word' id='word_1_18' title='bbox 0 0 1832 3137; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
